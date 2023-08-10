@@ -3,3 +3,15 @@ languageCode = 'en-us'
 title = 'The Flames Witnessed at Temperance'
 theme = 'hugo-book'
 favicon = 'favicon.ico'
+BookMenuBundle = '/menu'
+
+[menu]
+[[menu.after]]
+  name = "Go to ddgant.com"
+  url = "https://www.ddgant.com/"
+  weight = 10
+[[menu.after]]
+  name = "Get the PDF at itch.io"
+  url = "https://ddgant.itch.io/"
+  weight = 20
+
