@@ -44,26 +44,21 @@ The twisting thickets of [The Forest’s Hug (Area 10)](#10-the-forests-hug) lea
 |6 | A slight gust blows a sprinkle of sand into the eyes of a random victim. Tired, they fall into *sleep* in 1d3 turns. | A single **mare**, a stunted, hairless, malicious dream demon, leaps upon the chest of its victim, toppling them. |
 
 >Anthropomorphic Rat  
->**HD** ½, **Att** 1d2 (stab), **AC** 7 [12], **MV** 30'  
->**SV** F1, **ML** 8, **AL** C, **XP** 5
+>**HD** ½, **Att** 1d2 (stab), **AC** 7 [12], **MV** 30', **SV** F1, **ML** 8, **AL** C, **XP** 5
 
 >Barb-Tailed Bat-Creature   
->**HD** 1, **Att** 1d3 (stab), **AC** 6 [13], **MV** 40'  
->**SV** F1, **ML** 7, **AL** C, **XP** 13  
+>**HD** 1, **Att** 1d3 (stab), **AC** 6 [13], **MV** 40', **SV** F1, **ML** 7, **AL** C, **XP** 13  
 >On hit, 2-in-6 chance to *cause fear* (save vs spells).
 
 >Deer  
->**HD** 1, **Att** 1d3 (butt), **AC** 7 [12], **MV** 80'  
->**SV** F1, **ML** 5, **AL** N, **XP** 10  
+>**HD** 1, **Att** 1d3 (butt), **AC** 7 [12], **MV** 80', **SV** F1, **ML** 5, **AL** N, **XP** 10  
 
 >Skeleton  
->**HD** 1, **Att** 1d6 (club), **AC** 7 [12], **MV** 20'  
->**SV** F1, **ML** 12, **AL** C, **XP** 10  
+>**HD** 1, **Att** 1d6 (club), **AC** 7 [12], **MV** 20', **SV** F1, **ML** 12, **AL** C, **XP** 10  
 
 >Mare  
->**HD** 2, **Att** 1d3/1d3 (claws), **AC** 7 [12], **MV** 30'  
->**SV** F3, **ML** 6, **AL** C, **XP** 50  
->Casts *sleep* on touch. Infravision 90'. Half damage from non-magical weapons. Half damage from cold-, electric-, fire-, and gas-based attacks.
+>**HD** 2, **Att** 1d3*2 (claws), **AC** 7 [12], **MV** 30', **SV** F3, **ML** 6, **AL** C, **XP** 50  
+>On hit, casts *sleep*. Infravision 90'. Half damage from non-magical weapons. Half damage from cold-, electric-, fire-, and gas-based attacks.
 
 
 ## 1. Awakening the Sleeping Wizard
@@ -72,8 +67,7 @@ In defiance of expectantly calm conditions, the sea surrounding the islet turns 
 Billy, a solo **hammerhead shark**, circles oncomers in preparation for a meal. He fears all things magic.  
 
 >Shark  
->**HD** 2, **Att** 2d6 (bite), **AC** 5 [14], **MV** 60'  
->**SV** F2, **ML** 7, **AL** N, **XP** 25  
+>**HD** 2, **Att** 2d6 (bite), **AC** 5 [14], **MV** 60', **SV** F2, **ML** 7, **AL** N, **XP** 25  
 >(Special) Ram: on hit, save vs paralysis or become stunned for 2 rounds.  
 
 ### A. Brittle Dock
@@ -101,25 +95,22 @@ A steady stream of **anthropomorphic rats**, dressed in miniature brigand outfit
 
 Real creatures entering the portal teleport to the [Vault of the Mollusk (Area D).](#d-vault-of-the-mollusk)
 
->Anthropomorphic Rat (ꝏ)  
->**HD** ½, **Att** 1d2 (stab), **AC** 7 [12], **MV** 30'  
->**SV** F1, **ML** 8, **AL** C, **XP** 5
+>Anthropomorphic Rat (∞)  
+>**HD** ½, **Att** 1d2 (stab), **AC** 7 [12], **MV** 30', **SV** F1, **ML** 8, **AL** C, **XP** 5
 
 #### *In a nightmare...*
 The islet is unrecognizable, a solitary rock stripped bare of all greenery. A giant ghost crab, Caesar, upsets the half-moon shore, crunching steel crab cages between his bulky claws.
 
 >Giant Ghost Crab  
->**HD** 3, **Att** 2d6 (pincers), **AC** 4 [15], **MV** 30'  
->**SV** F3, **ML** 9, **AL** N, **XP** 35
+>**HD** 3, **Att** 2d6 (pincers), **AC** 4 [15], **MV** 30', **SV** F3, **ML** 9, **AL** N, **XP** 35
 
 ## 3. Path of the Fae Knight
-The trail trudges through swathes of tall grass spotted with clumps of curly dock weed. Bushy elder trees mark the islet’s crown where a pinstripe hammock[^1] stretches between the thick trunks. A shimmering figure tends a makeshift driftwood brazier laid with bundles of green grass. 
+The trail trudges through swathes of tall grass spotted with clumps of curly dock weed. Bushy elder trees mark the islet’s crown where a pinstripe hammock[^1] stretches between the thick trunks. 
 
-A shimmering figure tends a makeshift driftwood brazier laid with bundles of green grass. Quiet “Anna” Chirping-Sun, a dainty **wood elf**, casts irregular smoke signals into the air. Anna doesn’t know where she is, how she got here, or that she is only a figment of Prowst’s dream. She knows Prowst and holds him in friendly regard for helping identify magic artifacts (spell scrolls and a magic bow) for her family. She wants to get off the islet. If she leaves, or the dream ends, she ceases to exist.
+A shimmering figure tends a makeshift driftwood brazier laid with bundles of green grass. Quiet “Anna” Chirping-Sun, a dainty **wood elf**, casts irregular smoke signals into the air. Anna doesn’t know where she is, how she got here, or that she is only a figment of Prowst’s dream. She knows Prowst and holds him in friendly regard for helping identify magic artifacts for her family, including some spell scrolls and a magic bow, which she has since lost. She wants to get off the islet. If she leaves, or the dream ends, she ceases to exist.
 
 >Wood Elf  
->**HD** 1+1*, **Att** 1d6 (bow), **AC** 5 [14], **MV** 40'  
->**SV** E1, **ML** 8, **AL** N, **XP** 19  
+>**HD** 1+1*, **Att** 1d6 (bow), **AC** 5 [14], **MV** 40', **SV** E1, **ML** 8, **AL** N, **XP** 19  
 >Ready to cast *shield*.
 
 - [Up (6).](#6-sancta-sanctorum) 30’ above, atop the sheer tower of the lighthouse, a heavy salt rock crystal pulsates in a dull glow. It hangs by thin twine under a deteriorating wooden canopy.
@@ -134,8 +125,7 @@ A shimmering figure tends a makeshift driftwood brazier laid with bundles of gre
 A trio of misshapen **bat-creatures** with barbed tails and six wings peer over the edge of the lighthouse tower, ready for ambush.
 
 >Barb-Tailed Bat-Creature (3)   
->**HD** 1, **Att** 1d3 (stab), **AC** 6 [13], **MV** 40'  
->**SV** F1, **ML** 7, **AL** C, **XP** 13  
+>**HD** 1, **Att** 1d3 (stab), **AC** 6 [13], **MV** 40', **SV** F1, **ML** 7, **AL** C, **XP** 13  
 >On hit, 2-in-6 chance to *cause fear* (save vs spells).
 
 ## 4. Healing Spells for the Lost Wanderer
@@ -159,16 +149,13 @@ Heatless green flame creeps up the walls and around piles of ash. Nothing remain
 Colorful heraldic standards carried on miniature flag poles wave through brawling chaos. Eku, a bipedal toad wearing a felt hood, commands a mass of ribbiting **amphibians** against the invading forces of Nima, an evil-spirited rat. Nima dons a repurposed chainmail coif over fine silks, and waves a sewing needle in frantic command of his fellow **rat-kin**. The toads prepare to release a trained **tabby cat** into the fray.
 
 >Toad (12)  
->**HD** ½, **Att** 1d2 (bite), **AC** 8 [11], **MV** 25'  
->**SV** F1, **ML** 10, **AL** N, **XP** 5
+>**HD** ½, **Att** 1d2 (bite), **AC** 8 [11], **MV** 25', **SV** F1, **ML** 10, **AL** N, **XP** 5
 
 >Anthropomorphic Rat (14)  
->**HD** ½, **Att** 1d2 (stab), **AC** 7 [12], **MV** 30'  
->**SV** F1, **ML** 8, **AL** C, **XP** 5
+>**HD** ½, **Att** 1d2 (stab), **AC** 7 [12], **MV** 30', **SV** F1, **ML** 8, **AL** C, **XP** 5
 
 >Tabby Cat    
->**HD** ½, **Att** 1d2 (scratch), **AC** 9 [10], **MV** 40'  
->**SV** NM, **ML** 6, **AL** N, **XP** 5
+>**HD** ½, **Att** 1d2 (scratch), **AC** 9 [10], **MV** 40', **SV** NM, **ML** 6, **AL** N, **XP** 5
 
 The battle here, and all of its participants, appears larger-than-life due to the affectations of Prowst’s dream state. Eku grants allies access to the cellar door, fending off the rats. If Nima and his forces are annihilated, reinforcements continue to arrive through the [Unstable Portal (Area C).](#c-unstable-portal)
 
@@ -182,8 +169,7 @@ A dense fog settles over a sea of mounded soil. Rows of crumbling headstones and
 With appropriate equipment, dig up and loot shallow graves one per turn. Roll on [*Treasure Table U*](https://www.ddgant.com/tools/) for grave contents. Every other turn there is a 2-in-6 chance **1d6+1 skeletons** attack from the grave.  
 
 >Skeleton  
->**HD** 1, **Att** 1d6 (club), **AC** 7 [12], **MV** 20'  
->**SV** F1, **ML** 12, **AL** C, **XP** 10  
+>**HD** 1, **Att** 1d6 (club), **AC** 7 [12], **MV** 20', **SV** F1, **ML** 12, **AL** C, **XP** 10  
 
 ## 6. Sancta Sanctorum
 A huge, glowing chunk of salt rock crowns a spotless shrine of redwood and marble. 30’ high walls vault up to a shoddy, oversized canopy that shelters the room, otherwise open to the exterior. White benches, cynically ornate, encircle a wide, bronze offering plate. Lawful runes inscribe a pristine mantle with symbols of purity, chastity, and temperance.
@@ -198,9 +184,8 @@ Sacrificing detritus to the offering plate *blesses* the sacrificer, once per da
 The **likeness of the god of purity** rests distraught on a bench before his shrine. Disappointed in his exploitation, he asks, “Does anyone understand the true meaning of purity?” If answered satisfactorily, he bestows *improved resist fire* (double resistance, lasts until end of day) upon the earnest responder. 
 
 >Likeness of the God of Purity  
->**HD** 3+2*, **Att** 1d6 (mace), **AC** 3 [16], **MV** 40'  
->**SV** C4, **ML** 11, **AL** L, **XP** 50    
->Ready to cast *sticks to snakes* and *light*. 
+>**HD** 3+2*, **Att** 1d6+2, **AC** 3 [16], **MV** 40', **SV** C4, **ML** 11, **AL** L, **XP** 50    
+>Ready to cast *sticks to snakes*. Wields a magic mace called Purifier[^10].
 
 A rolled-up scroll of parchment, a map, rests atop the shrine’s mantle. X marks the spot where it leads to buried treasure in the [Snow Garden (Area 8, Nightmare).](#8-the-snow-garden)
 
@@ -225,9 +210,8 @@ A horse-sized, vat-grown **fungus-octopus**, Hector, trudges and rolls through t
 - [North (9).](#9-last-night-awake) The wooden door to the brick house lies detached in a pile of snow, exploded off its hinges.
 
 >Fungus Octopus    
->**HD** 3, **Att** 1d3*8 (tentacles), **AC** 7 [12], **MV** 30'  
->**SV** F3, **ML** 8, **AL** N, **XP** 35    
->3+ damage severs a tentacle, which regrows immediately. Creatures suffering 6+ fungal octopus damage must save vs poison or contract systemic mycosis and gain no benefits from rest (healing, spell memorization) until cured.  
+>**HD** 3, **Att** 1d3*8, **AC** 7 [12], **MV** 30', **SV** F3, **ML** 8, **AL** N, **XP** 35    
+>3+ damage severs a tentacle. Creatures suffering 6+ fungal octopus damage must save vs poison or contract systemic mycosis and gain no benefits from rest (healing, spell memorization) until cured.  
 
 |**Roll 1d6**|**Stone Structure Contents (Search 1 per turn)**|
 |---|---|
@@ -239,13 +223,11 @@ A horse-sized, vat-grown **fungus-octopus**, Hector, trudges and rolls through t
 |6 | Toads perform ballet in a tiny, elaborate amphitheater. |
 
 >Toy Chest  
->**HD** 2, **Att** 1d6 (chomp), **AC** 4 [15], **MV** 30'  
->**SV** F2, **ML** 9, **AL** C, **XP** 20     
+>**HD** 2, **Att** 1d6 (chomp), **AC** 4 [15], **MV** 30', **SV** F2, **ML** 9, **AL** C, **XP** 20     
 
 >Venomous Snake  
->**HD** 2*, **Att** 1d3 (bite), **AC** 6 [13], **MV** 30'  
->**SV** F2, **ML** 7, **AL** N, **XP** 25  
->Infravision 30’. Always gains initiative. On bite, save vs poison or die.   
+>**HD** 2*, **Att** 1d3 (bite), **AC** 6 [13], **MV** 30', **SV** F2, **ML** 7, **AL** N, **XP** 25  
+>Infravision 30’. Always wins initiative. On bite, save vs poison or die.   
 
 #### *In a nightmare...*
 A brutal blizzard obstructs vision and reduces speed by half. Buried treasure exists in a spot only identifiable with a treasure map. There is a bag of small rubies (1,000 gp), a finely made yew shortbow[^6], and a scroll tube (contains *detect secret door (3 turns)* and *reincarnation*).
@@ -257,8 +239,7 @@ red rug (700 gp) of otherworldly patterns. A smaller bed, less than dwarf-sized,
 A damaged **wood golem**, splintered and burnt, feeds a rickety wood stove. The golem attempts to serve its secondary function by gently tucking intruders into bed. The golem will prevent access to the [Vault of the Mollusk (Area D).](#d-vault-of-the-mollusk) The phrases “good morning” and “good night” stop and start the golem, respectively.
 
 >Wood Golem  
->**HD** 2+2, **Att** 1d8 (crush), **AC** 7 [12], **MV** 40'  
->**SV** F1, **ML** 12, **AL** N, **XP** 25  
+>**HD** 2+2, **Att** 1d8 (crush), **AC** 7 [12], **MV** 40', **SV** F1, **ML** 12, **AL** N, **XP** 25  
 >Unaffected by non-magical weapons, gas, *charm*, *hold*, and *sleep*. Weak to fire. 
 
 The elaborate contraption’s countdown clock has paused mid-swing due to a tiny needle stuck between the cogs. 7 days remain on the countdown. If the clock reaches zero, the contraption produces a red metal flask[^7], a glass of orange juice, and a fresh bread roll.
@@ -283,9 +264,8 @@ Under the spell of the beckoning nightmare, the adventuring party finds themselv
 #### *In a nightmare...*
 A **red-cloaked wizard**, with fire in his eyes, sleepwalks through the endless thicket. Leafless oaks and scraggly pines burst into sporadic flame, and the low moon engulfs the sky. Prowst, fragile and easily-confused, sleepwalks through his own nightmare. Confrontation upsets the cursed flora. Every round of combat here, one random creature must save vs paralysis or be overcome by a chrysalis of crawling roots and brambles, rooted and restrained for 3 rounds or until cut out.
 
->Prowst, the Red-Cloaked Wizard, Sleep-Walking 
->**HD** 7*, **Att** 1d2 (unarmed), **AC** 9 [10], **MV** 40'  
->**SV** MU7, **ML** 8, **AL** N, **XP** 950   
+>Prowst, the Red-Cloaked Wizard, Sleep-Walking  
+>**HD** 7*, **Att** 1d2 (fist), **AC** 9 [10], **MV** 40', **SV** MU7, **ML** 8, **AL** N, **XP** 950   
 >Ready to cast *wall of fire*, *fly*, *fire ball*, *mirror image*, *magic missile*, and *shield*.
 
 Prowst’s death in the nightmare ends the strange effects upon the islet, and all characters wake in the [wizard’s lounge (Area 4).](#4-healing-spells-for-the-lost-wanderer) The portrait no longer speaks, and the hearth pops and blazes with plain fire. A less-anthropomorphic Eku ribbits from the perch of his miniature armchair. Prowst, alive and clear-minded, thanks the adventurers for their intervention, awarding the party with eight octopus-engraved gold rings[^9] (500 gp each).
@@ -294,6 +274,7 @@ Prowst’s death in the nightmare ends the strange effects upon the islet, and a
 [^1]: **Ponderer’s Hammock.** The hammock envelopes any creature with an intelligence score less than 9 that it comes into contact with. If thrown, roll to hit -2. Upon hit, save vs paralysis once per round or become enveloped, restricting all movement. After 3 rounds of envelopment, the creature remains enveloped permanently (unless assisted) and suffocates to death in a number of rounds equal to 1d6+the creature’s constitution modifier.
 [^2]: **Rabbit’s Foot.** Worn as an amulet, negates one killing blow against the wearer, once per week.
 [^3]: **Scroll of Healing.** Heal 1d6+2 wounds. Can be read by holy men and sorcerers alike.
+[^10]: **Purifier.** Mace, +2. Acts as a holy symbol. Glows in the presence of rats and other filthy vermin. 
 [^4]: **Potion of Bees.** Turn into a swarm of bees. Lasts 2 turns.
 [^5]: **Snakebite.** Two-handed sword, +1. A neutral or chaotically aligned creature may use a command word of their choice to turn the sword into a venomous snake under their control and back again.
 [^6]: **Gift of Anna.** Shortbow, +1. Requires no ammunition. Arrows manifest as bright beams of light trailed by ethereal smoke.
