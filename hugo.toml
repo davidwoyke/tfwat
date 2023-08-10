@@ -12,6 +12,6 @@ BookMenuBundle = '/menu'
   weight = 10
 [[menu.after]]
   name = "Get the PDF at itch.io"
-  url = "https://ddgant.itch.io/"
+  url = "https://ddgant.itch.io/the-flames-witnessed-at-temperance/"
   weight = 20
 
