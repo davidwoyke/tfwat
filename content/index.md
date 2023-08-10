@@ -300,5 +300,3 @@ Prowst’s death in the nightmare ends the strange effects upon the islet, and a
 [^7]: **Potion of Haste.** Act twice as quickly as normal. Lasts 3 turns.
 [^8]: **Iridesca Rod.** Create a 10 ft diameter aura of flashing electric-blue rings. Those within the aura are *silenced*. Those outside the aura that do not avert their gaze must save vs paralysis or become partially blinded (-2 to hit). Lasts 3 rounds. Range 80 ft. Use once per day.
 [^9]: **Ring of Sixth Sense.** The wearer telepathically senses unspoken signals and emotions of other *ring of sixth sense* wearers.
-
-![CoverArt](Cover.png)
