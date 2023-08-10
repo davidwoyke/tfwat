@@ -99,7 +99,7 @@ Shrieking seabirds dive at the shore. Fine white sand erupts with turtle hatchli
 ### C. Unstable Portal
 A steady stream of **anthropomorphic rats**, dressed in miniature brigand outfits, pile out of a swirling vortex in the mouth of an overturned wheelbarrow. They cartoonishly clamber up the walls and through the door of the brick structure. 
 
-Real creatures entering the unstable portal teleport to the [Vault of the Mollusk (Area D).](#d-vault-of-the-mollusk)
+Real creatures entering the portal teleport to the [Vault of the Mollusk (Area D).](#d-vault-of-the-mollusk)
 
 >Anthropomorphic Rat (ꝏ)  
 >**HD** ½, **Att** 1d2 (stab), **AC** 7 [12], **MV** 30'  
@@ -232,7 +232,7 @@ A horse-sized, vat-grown **fungus-octopus**, Hector, trudges and rolls through t
 |**Roll 1d6**|**Stone Structure Contents (Search 1 per turn)**|
 |---|---|
 |1 | A den of wet cushions and matted fur rugs. A silver dagger pins a deck of cards to a low wooden table. |
-|2 | A noble child’s room. Vivid wallpaper depicts a desolate hellscape. Playthings spill from a **toy chest** that comes alive if approached, chomping its victims. |
+|2 | A noble child’s room. Vivid wallpaper depicts a desolate hellscape. Playthings spill from a **toy chest** that animates upon approach, chomping its victims. |
 |3 | A gold-framed painting set on an easel depicts a cliffside monastery of whitewashed limestone (600 gp). |
 |4 | A floor-to-ceiling pool of black, venomous snakes slither in defiance of gravity. The hilt of a broadsword[^5] pierces the center of the writhing den. |
 |5 | A heavy silver statue of a cow (2,000 gp) is chained and padlocked to the flagstone floor. |
