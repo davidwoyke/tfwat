@@ -130,7 +130,7 @@ A trio of misshapen **bat-creatures** with barbed tails and six wings peer over 
 
 ## 4. Healing Spells for the Lost Wanderer
 Eccentric, unfashionable furnishings cramp this filthy lounge. Worn, tufted leather armchairs, one smaller than dwarf-sized, face a cobblestone hearth ablaze with green fire. The dusty mantle beset with
-curios enshrines a faded portrait hanging above; a captious, elderly man meets the gaze of the beholder.
+curios enshrines a faded portrait wherein a captious, elderly man matches the gaze of the beholder.
 
 If spoken to, the **portrait of Prowst** exposes his real self is trapped in a magically-induced slumber down below. Outside forces, Nima and his rat-kin, are working to impede Prowst’s rousing. The wizard’s dreams are leaking into reality, and if he doesn’t Wake Up soon, a release of arcane force causes a devastating tsunami.
 
