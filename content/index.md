@@ -71,7 +71,9 @@ Billy, a solo **hammerhead shark**, circles oncomers in preparation for a meal. 
 >(Special) Ram: on hit, save vs paralysis or become stunned for 2 rounds.  
 
 ### A. Brittle Dock
-Sharp barnacles crawl up the worn legs of a shoddy, algae-ridden dock. At the end of the pier, a snapped mooring line clings to a wooden bollard that doubles as a signpost. The sun-bleached letters proclaim, “The Isle of Temperance”. Wearing heavy armor, there is a 2-in-6 chance to fall through a weakened dock plank. The shore drops off steeply. With no help, there is a 1-in-6 chance of drowning. With a fast reaction from a dexterous friend, there is only a 1-in-20 chance of drowning.
+Sharp barnacles crawl up the worn legs of a shoddy, algae-ridden dock. At the end of the pier, a snapped mooring line clings to a wooden bollard that doubles as a signpost. The sun-bleached letters proclaim, “The Isle of Temperance”. 
+
+Wearing heavy armor, there is a 2-in-6 chance to fall through a weakened dock plank. The shore drops off steeply. With no help, there is a 1-in-6 chance of drowning. With a fast reaction from a dexterous friend, there is only a 1-in-20 chance of drowning.
 
 - [Northeast (3).](#3-path-of-the-fae-knight) A rough-worn trail leads up the hill where smoke signals rise.
 
